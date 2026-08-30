@@ -46,6 +46,11 @@ modified: '2026-04-28'
 specificationVersion: '0.23'
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/western-refining/
+    name: Western Refining
+    x-relationship: acquired
+    x-evidence: "It was acquired by Western Refining in 2016, which itself merged into Marathon Petroleum's brand portfolio."
   - type: LinkedIn
     url: https://www.linkedin.com/company/northern-tier-energy
   - type: Successor
