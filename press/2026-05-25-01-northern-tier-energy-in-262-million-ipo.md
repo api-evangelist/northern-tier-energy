@@ -1,7 +1,9 @@
 ---
 title: Northern Tier Energy in $262 Million IPO
 url: https://www.clearygottlieb.com/news-and-insights/news-listing/northern-tier-energy-in-262-million-ipo52
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Northern Tier Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

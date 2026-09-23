@@ -1,7 +1,9 @@
 ---
 title: Ed Lawrence - Instument Forman at Northern Tier Energy
 url: https://www.linkedin.com/pub/ed-lawrence/66/897/31
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Northern Tier Energy" press release artificial intelligence'
 position: 4
 source: serpapi-google
